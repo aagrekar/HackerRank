@@ -1,16 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Apr 24 19:57:45 2018
-
-@author: aagre
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr 24 17:31:08 2018
-
-@author: aagre
-"""
 
 # Create a class to hold the values of the spaceship.
 class Spaceship:
